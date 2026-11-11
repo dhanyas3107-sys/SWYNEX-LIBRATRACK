@@ -1,0 +1,5 @@
+# LibraTrack borrow records: transactionId|studentId|studentName|bookId|bookTitle|borrowDate|dueDate|returnDate|fineAmount|status
+1001|101|Arjun Kumar|1|Clean Code|2026-09-01|2026-09-15|2026-09-12|0|RETURNED
+1002|102|Priya Sharma|3|Introduction to Algorithms|2026-09-10|2026-09-24|2026-10-01|35|RETURNED
+1003|101|Arjun Kumar|2|Effective Java|2026-10-20|2026-11-03||0|ACTIVE
+1004|103|Rahul Verma|5|The Pragmatic Programmer|2026-11-05|2026-11-19||0|ACTIVE

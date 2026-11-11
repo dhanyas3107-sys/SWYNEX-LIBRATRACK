@@ -1,0 +1,19 @@
+# Compiled output
+out/
+bin/
+*.class
+
+# Temporary files created while saving data
+*.tmp
+
+# IDE / editor files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db

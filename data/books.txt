@@ -1,0 +1,9 @@
+# LibraTrack books: bookId|title|author|category|isbn|publicationYear|available
+1|Clean Code|Robert C. Martin|Programming|9780132350884|2008|true
+2|Effective Java|Joshua Bloch|Programming|9780134685991|2018|false
+3|Introduction to Algorithms|Thomas H. Cormen|Algorithms|9780262046305|2022|true
+4|Head First Java|Kathy Sierra|Programming|9781491910771|2022|true
+5|The Pragmatic Programmer|Andrew Hunt|Software Engineering|9780135957059|2019|false
+6|Database System Concepts|Abraham Silberschatz|Databases|9780078022159|2019|true
+7|Wings of Fire|A. P. J. Abdul Kalam|Autobiography|9788173711466|1999|true
+8|Discrete Mathematics and Its Applications|Kenneth H. Rosen|Mathematics|9781259676512|2018|true

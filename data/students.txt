@@ -1,0 +1,6 @@
+# LibraTrack students: studentId|name|email|contact|department|yearOfStudy
+101|Arjun Kumar|arjun.kumar@example.com|9876543210|Computer Science|2
+102|Priya Sharma|priya.sharma@example.com|9123456780|Information Technology|3
+103|Rahul Verma|rahul.verma@example.com|9988776655|Electronics|1
+104|Sneha Iyer|sneha.iyer@example.com|9012345678|Mechanical|4
+109|DHANYA|dhanya@gmail.com|9150500140|CSE|2
